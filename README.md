@@ -1,8 +1,10 @@
-Features
+![screenshot](http://mattsdavis.com/images/article-max/463.png "Plugin Screenshot")
+
+#Features
 
 Replaces the standard Textpattern Visitor Logs with your [Piwik](http://piwik.org/) Dashboard
 
-Setup
+#Setup
 
 Set the plugin preferences to configure your piwik site id and the url to your piwik installation.
 
